@@ -1,0 +1,1 @@
+["subject", "email", "address", "dear", "linguist", "doe", "anyone", "know", "where", "can", "i", "get", "the", "email", "address", "of", "all", "or", "some", "the", "linguistics", "graduate", "school", "in", "the", "us", "thank", "for", "your", "kindly", "help", "sherman"]

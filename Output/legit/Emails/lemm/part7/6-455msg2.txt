@@ -1,0 +1,1 @@
+["subject", "q", "wordnet", "in", "spanish", "hello", "do", "anybody", "know", "if", "there", "be", "something", "like", "wordnet", "for", "spanish", "pablo", "accuosto", "accuosto", "fing", "edu", "uy"]

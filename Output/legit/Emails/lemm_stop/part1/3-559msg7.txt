@@ -1,0 +1,1 @@
+["subject", "query", "status", "chomsky", "s", "minimalist", "paper", "doe", "anybody", "publication", "status", "chomsky", "s", "minimalist", "paper"]
