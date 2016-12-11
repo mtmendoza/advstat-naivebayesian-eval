@@ -1,0 +1,1 @@
+["subject", "re", "sum", "french", "loan", "word", "language", "evolution", "summary", "french", "loanword", "english", "baugh", "word", "figure", "jespersen", "s", "growth", "structure", "english", "language", "jespersen", "baugh", "actually", "try", "count", "fact", "s", "worth", "jespersen", "sort", "fact", "chapter", "french", "influence", "book", "suzanne", "kemmer"]

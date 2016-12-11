@@ -1,0 +1,1 @@
+["subject", "re", "word", "own", "opposite", "content", "length", "pair", "synonym", "one", "sense", "antonym", "another", "outgo", "retire", "mary", "s", "neff", "ibm", "research"]

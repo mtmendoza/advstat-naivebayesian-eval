@@ -1,0 +1,1 @@
+["subject", "search", "doe", "anyone", "whereabout", "dr", "peter", "hawkin", "phonetician", "late", "edinburgh", "queen", "elizabeth", "college", "scotland", "seek", "collaborate", "one", "self", "instructional", "computer", "course", "french", "phonetic", "notation", "micro", "move", "along", "need", "one", "ibm", "pcs", "help", "either", "search"]
