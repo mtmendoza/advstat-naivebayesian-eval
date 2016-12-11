@@ -1,0 +1,1 @@
+["subject", "re", "latvium", "s", "language", "policy", "what", "about", "give", "martin", "the", "benefit", "of", "the", "doubt", "and", "assume", "that", "russian", "speak", "estonian", "be", "a", "slip", "of", "the", "keyboard", "for", "russian", "speak", "latvian", "hartmut", "haberland"]

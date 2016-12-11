@@ -1,0 +1,1 @@
+["subject", "address", "john", "thayer", "jensen", "doe", "anyone", "e", "mail", "address", "john", "thayer", "jensen", "extraordinary", "coincidence", "another", "john", "t", "jensen", "linguist", "one", "m", "one", "write", "yapese", "grammar", "dictionary", "thank", "john", "henderson", "ph", "centre", "linguistic", "university", "western", "australium", "w", "fax"]

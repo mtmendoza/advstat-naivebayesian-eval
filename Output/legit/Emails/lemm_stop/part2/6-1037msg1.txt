@@ -1,0 +1,1 @@
+["subject", "labov", "tense", "laut", "preprint", "agency", "trier", "west", "germany", "publihsh", "work", "paper", "william", "labov", "adequacy", "natural", "language", "development", "tense", "doe", "anybody", "reference", "proper", "publication", "paper", "journal", "article", "chapter", "book", "thank", "hartmut", "haberland"]

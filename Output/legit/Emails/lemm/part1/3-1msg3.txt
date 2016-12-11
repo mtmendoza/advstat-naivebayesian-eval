@@ -1,0 +1,1 @@
+["subject", "s", "np", "np", "for", "me", "it", "s", "much", "more", "restrictive", "than", "s", "np", "np", "it", "s", "no", "np", "pro", "quite", "an", "over", "restriction", "that"]
