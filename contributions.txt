@@ -1,0 +1,12 @@
+Balajadia, Regina Claire
+1. Feature Extraction Notebook
+2. Performance Evaluation Notebook
+3. Naive Bayes Notebook
+
+Mendoza, Theresa
+1. Updated Tutorial Notebook
+2. Help with tutorial flow for each notebook
+
+Pua, Raymund
+1. General Help with tutorial flow
+2. Debugging and Error Checking (QA)
